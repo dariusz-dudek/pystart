@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.3/python_stubs/1268920064/builtins.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/py_checkio_solutions/Elementary/acceptable_password_i.py">
           <value>
             <Attribute>
@@ -150,7 +157,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Home/popular_words.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/py_checkio_solutions/Home/right_to_left.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Home/second_index.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Home/sort_array_by_element_frequency.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -199,6 +227,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Week_02/exercise_12_1_1.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Week_02/exercise_12_1_2.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Zadania_01/Zamiana_c_f.py">
           <value>
             <Attribute>
@@ -228,6 +270,13 @@
           </value>
         </entry>
         <entry key="/exercise_4.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/test.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
