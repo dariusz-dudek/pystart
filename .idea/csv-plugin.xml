@@ -199,6 +199,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Week_01/Homework_01_1/homework_04.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Week_02/exercise_11_1_1.py">
           <value>
             <Attribute>
@@ -235,6 +242,27 @@
           </value>
         </entry>
         <entry key="/Week_02/exercise_12_1_2.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Week_02/exercise_13_1_1.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Week_02/exercise_13_1_2.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Week_02/exercise_13_1_3.py">
           <value>
             <Attribute>
               <option name="separator" value=":" />
