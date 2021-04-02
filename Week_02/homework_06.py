@@ -4,7 +4,7 @@ from math import sqrt
 def first(num):
     if num <= 1 or num == 4:
         return False
-    for j in range(2, round(sqrt(num))):
+    for j in range(2, round(sqrt(num) + 1)):
         if num % j == 0:
             return False
     return True
