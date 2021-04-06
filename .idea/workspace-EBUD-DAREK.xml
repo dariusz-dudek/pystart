@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4fdb3d0-ba9e-4d5d-8ebc-530a35d471c9" name="Default Changelist" comment="Exercise 13 week two">
+      <change afterPath="$PROJECT_DIR$/Week_02/homework_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/homework_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/homework_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/homework_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pystart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pystart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/f2py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/f2py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/f2py3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/f2py3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/f2py3.9" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/f2py3.9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.9" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3.9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/virtualenv" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/virtualenv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/.dylibs/libgfortran.3.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/.dylibs/libgfortran.3.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/.dylibs/libopenblas.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/.dylibs/libopenblas.0.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/.dylibs/libquadmath.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/.dylibs/libquadmath.0.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_multiarray_tests.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_multiarray_tests.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_multiarray_umath.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_multiarray_umath.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_operand_flag_tests.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_operand_flag_tests.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_rational_tests.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_rational_tests.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_simd.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_simd.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_struct_ufunc_tests.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_struct_ufunc_tests.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_umath_tests.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/core/_umath_tests.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/fft/_pocketfft_internal.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/fft/_pocketfft_internal.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/linalg/_umath_linalg.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/linalg/_umath_linalg.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/linalg/lapack_lite.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/linalg/lapack_lite.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_bounded_integers.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_bounded_integers.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_common.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_common.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_generator.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_generator.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_mt19937.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_mt19937.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_pcg64.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_pcg64.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_philox.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_philox.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_sfc64.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/_sfc64.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/bit_generator.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/bit_generator.cpython-39-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/mtrand.cpython-39-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/numpy/random/mtrand.cpython-39-darwin.so" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q5FYGFHEU4AoLMLS3GduIVIrXf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_02" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Day_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.homework_04 (1)">
+    <configuration name="homework_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_02/homework_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_02/homework_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_02/homework_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework_04 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_02/homework_04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pystart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_01/Homework_01_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_01/Homework_01_1/homework_04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.homework_04 (1)" />
+        <item itemvalue="Python.homework_03" />
+        <item itemvalue="Python.homework_02" />
+        <item itemvalue="Python.homework_01" />
+        <item itemvalue="Python.homework_04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4fdb3d0-ba9e-4d5d-8ebc-530a35d471c9" name="Default Changelist" comment="" />
+      <created>1616361590011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616361590011</updated>
+      <workItem from="1616961191357" duration="1001000" />
+      <workItem from="1616962270127" duration="40000" />
+      <workItem from="1616962325188" duration="4264000" />
+      <workItem from="1616999607681" duration="47406000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding homework for the second day">
+      <created>1617015119466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617015119467</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding homework second dany dictionary">
+      <created>1617139339022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617139339022</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercise 13 week two">
+      <created>1617185917227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617185917227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding homework for the second day" />
+    <MESSAGE value="Adding homework second dany dictionary" />
+    <MESSAGE value="Exercise 13 week two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 13 week two" />
+  </component>
+</project>
