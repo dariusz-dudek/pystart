@@ -80,6 +80,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Electronic Station/sort_by_extension.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/py_checkio_solutions/Electronic Station/words_order.py">
           <value>
             <Attribute>
@@ -136,6 +143,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Elementary/nearest_value.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/py_checkio_solutions/Elementary/number_length.py">
           <value>
             <Attribute>
@@ -161,6 +175,13 @@
           <value>
             <Attribute>
               <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Home/all_the_same.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
@@ -262,7 +283,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Home/split_list.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/py_checkio_solutions/Home/sum_numbers.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Home/sun_angle.py">
           <value>
             <Attribute>
               <option name="separator" value=":" />
@@ -273,6 +308,76 @@
           <value>
             <Attribute>
               <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/O&amp;#x27;Reilly/compress_list.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/O&amp;#x27;Reilly/index_power.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/O&amp;#x27;Reilly/lightbulb_intro.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/O&amp;#x27;Reilly/majority.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/O&amp;#x27;Reilly/median.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/O&amp;#x27;Reilly/median_of_three.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/O&amp;#x27;Reilly/remove_all_after.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/O&amp;#x27;Reilly/replace_last.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/O&amp;#x27;Reilly/sort_except_zero.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Polygon/words_finder.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
@@ -301,6 +406,20 @@
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Scientific Expedition/conversion_from_camelcase.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/py_checkio_solutions/Scientific Expedition/conversion_into_camelcase.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
@@ -458,6 +577,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Week_03/exercise_10_2_1.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Week_03/exercise_15_1_1.py">
           <value>
             <Attribute>
@@ -504,6 +630,20 @@
           <value>
             <Attribute>
               <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Week_03/exercise_20_1_1.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Week_03/exercise_20_2_2.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>

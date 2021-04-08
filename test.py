@@ -1,8 +1,11 @@
-a = '5'
+a = set(1)
+
+b = set(1)
+
+c = a | b
+
+print(c)
 
 
-print(a.isdigit())
-print(a.isnumeric())
-print(a.isdecimal())
-print(a.isalnum())
+
 
