@@ -1,4 +1,4 @@
-def count_vowels(text):
+def count_vowels(text: str) -> int:
     return sum([char in 'aąeęioóuy' for char in text])
 
 

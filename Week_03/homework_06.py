@@ -1,7 +1,7 @@
 import lorem
 
 
-def words_len(text):
+def words_len(text: str) -> list:
     return [word for word in text if 4 < len(word) < 8]
 
 

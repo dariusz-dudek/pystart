@@ -1,4 +1,4 @@
-def get_factorial(number):
+def get_factorial(number: int) -> int:
     result = 1
     while not number == 1:
         result *= number
